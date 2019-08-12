@@ -1,7 +1,5 @@
 # Simple-RPG-In-Unity-Fixed-By-D3
 
-[![GitHub release](https://img.shields.io/github/release/gamegrind/simple-rpg-in-unity.svg)](https://github.com/GameGrind/Simple-RPG-in-Unity/releases/tag/v1.0.0)
-
 Unity project for the Simple RPG series on GameGrind. (taken over by D3)
 
 The Simple RPG is a very simple RPG built in Unity as part of a training course on Youtube ([here's the channel](http://www.youtube.com/gamegrind)). The RPG was designed to simply teach basic concepts of RPGs, while making a decently functioning game.
